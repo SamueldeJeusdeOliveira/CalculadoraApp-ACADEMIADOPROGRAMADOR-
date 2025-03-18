@@ -1,14 +1,12 @@
-# Markdown
+## IntroduÃ§Ã£o
 
-## Introdução
-
-Essa caluculadora de console simples que permite realizar as quatro operaçoes básicas da matemática, além de visualizar a tabuada e o histórico de operações.
+Essa caluculadora de console simples que permite realizar as quatro operaÃ§oes bÃ¡sicas da matemÃ¡tica, alÃ©m de visualizar a tabuada e o histÃ³rico de operaÃ§Ãµes.
 
 ## Funcionalidades
 
-- Operações Básicas: Realiza somas, subtrações, multiplicações e divisões.
-- Suporte a Decimais: Trabalho com números com casas decimais
-- Validação de Entrada: A calculadora garante que apenas opções válidas sejam selecionadas.
-- **Tratamento de Divisão por Zero**: A calculadora é capaz de validar erros de divisão por zero.
-- **Tabuada**: A calculadora é capaz de gerar a tabuada de um número informado.
-- **Histórico de Operações**: A calculadora é capaz de armazenar um histórico de operações
+- OperaÃ§Ãµes BÃ¡sicas: Realiza somas, subtraÃ§Ãµes, multiplicaÃ§Ãµes e divisÃµes.
+- Suporte a Decimais: Trabalho com nÃºmeros com casas decimais
+- ValidaÃ§Ã£o de Entrada: A calculadora garante que apenas opÃ§Ãµes vÃ¡lidas sejam selecionadas.
+- **Tratamento de DivisÃ£o por Zero**: A calculadora Ã© capaz de validar erros de divisÃ£o por zero.
+- **Tabuada**: A calculadora Ã© capaz de gerar a tabuada de um nÃºmero informado.
+- **HistÃ³rico de OperaÃ§Ãµes**: A calculadora Ã© capaz de armazenar um histÃ³rico de operaÃ§Ãµes
